@@ -1,6 +1,6 @@
 package com.collection;
 
-public class SolarSYstem {
+public class SolarSystem {
 
     int Sun;
     int Moon;
