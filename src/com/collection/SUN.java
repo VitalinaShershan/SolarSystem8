@@ -2,6 +2,6 @@ package com.collection;
 
 public class SUN {
     String size;
-    int TEmp;
+    String TEmp;
     String color;
 }
